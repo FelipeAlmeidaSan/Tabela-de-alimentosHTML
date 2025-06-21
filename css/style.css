@@ -2,4 +2,35 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+    background-color: rgb(255, 251, 246);
+}
+
+.food-table {
+    margin: 100px;
+    padding: 80px;
+    width: 100%;
+
+}
+
+
+th,
+td {
+    border: 0.5px solid #484848;
+    padding: 32px 48px 32px 48px;
+    align-items: center;
+    text-align: center;
+    border-spacing: 0px;
+}
+
+thead {
+    background-color: rgb(10, 65, 120);
+    color: rgb(241, 252, 255);
+}
+
+tbody {
+    background-color: rgb(224, 247, 255);
 }
