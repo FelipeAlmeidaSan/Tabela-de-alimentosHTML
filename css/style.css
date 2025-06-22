@@ -31,6 +31,7 @@ h1 {
 }
 
 table {
+    width: 100%;
     align-items: end;
     border-collapse: collapse;
     border-spacing: 0px;
